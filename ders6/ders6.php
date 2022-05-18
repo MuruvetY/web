@@ -10,11 +10,11 @@
 
  <?php
  /*
- git versiyon kontrol sistemi temel komutlar 
+ git versiyon kontrol sistemi temel komutlar -
 
- anadil öncül tanım gelir maddeler halinde işlemleri a) b) c)
+ anadil öncül tanım gelir maddeler halinde işlemleri a) b) c) -
 
- değişken oluşturma
+ değişken oluşturma +
  
  temel matematiksel işlemlerden işlem verip değişkenlerle işlem yaptırma üst alma işlemi olabilir
   üst alma işlemi için pow
@@ -22,16 +22,16 @@
   sayıyı aşşağı yuvarlayın
 
  strtolower vs.
-
++
  ilk harfle ilgili
  dizinin dönüşümleri  stringi diziye çevirme stringi diziye dönüştürme
   numaralaarı parçalama 
 
 
-  for ve foreach ile dizi yazdırılması 
-  array kısmı 
+  for ve foreach ile dizi yazdırılması  +
+  array kısmı +
 
-
++
   şartlar koşullar if 
    if ile ilgili belli bir koşula göre bir işlemi yapabilen bir sonuç üretilen ifade 
 
